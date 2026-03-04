@@ -41,5 +41,8 @@
   "devDependencies": {
     "ansi-html-community": "^0.0.8",
     "html-webpack-plugin": "^5.6.6"
+  },
+  "overrides": {
+    "source-map-loader": "3.0.2"
   }
 }
